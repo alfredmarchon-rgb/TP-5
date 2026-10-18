@@ -1,21 +1,21 @@
 number,type,name,city,latitude,longitude,result_city,result_type,position,index_right,l_qu,c_ar,color
-5,rue,RIQUET,Paris,48.888134,2.376448,Paris,housenumber,POINT (2.376448 48.888134),78,Villette,19,#72ab22
-141,boulevard,ITALIE,Paris,48.820646,2.359275,Paris,housenumber,POINT (2.359275 48.820646),14,Maison-Blanche,13,#1a38c7
-234,rue,FAUBOURG ST-HONORÉ,Paris,48.87616,2.302766,Paris,housenumber,POINT (2.302766 48.87616),47,Faubourg-du-Roule,8,#2cd2e3
-62,rue,MICHEL BIZOT,Paris,48.835423,2.40204,Paris,housenumber,POINT (2.40204 48.835423),44,Picpus,12,#eb15c4
-6,rue,OURS,Paris,48.863311,2.351775,Paris,housenumber,POINT (2.351775 48.863311),1,Sainte-Avoie,3,#a69024
-30,rue,PETIT-MUSC,Paris,48.852945,2.364722,Paris,housenumber,POINT (2.364722 48.852945),61,Arsenal,4,#5cfebd
-3,impasse,MASSONET,Paris,48.895498,2.35158,Paris,housenumber,POINT (2.35158 48.895498),62,Clignancourt,18,#f5e703
-56,rue,PANOYAUX,Paris,48.867023,2.388347,Paris,housenumber,POINT (2.388347 48.867023),35,Père-Lachaise,20,#233af0
-16,rue,THÉRÈSE,Paris,48.866374,2.335212,Paris,housenumber,POINT (2.335212 48.866374),79,Palais-Royal,1,#d04986
-11,rue,JEAN ROBERT,Paris,48.88952,2.35817,Paris,housenumber,POINT (2.35817 48.88952),51,Goutte-d'Or,18,#0221ff
-22,rue,FAUBOURG POISSONNIÈRE,Paris,48.87254,2.348002,Paris,housenumber,POINT (2.348002 48.87254),43,Porte-Saint-Denis,10,#a49b77
-19,rue,CHALIGNY,Paris,48.846718,2.383559,Paris,housenumber,POINT (2.383559 48.846718),20,Quinze-Vingts,12,#1853cb
-77,rue,LILLE,Paris,48.8599,2.324857,Paris,housenumber,POINT (2.324857 48.8599),53,Saint-Thomas-d'Aquin,7,#20cce0
-64,rue,BAGNOLET,Paris,48.857795,2.399838,Paris,housenumber,POINT (2.399838 48.857795),49,Charonne,20,#051e46
-39,rue,ROMAINVILLE,Paris,48.877607,2.402001,Paris,housenumber,POINT (2.402001 48.877607),46,Amérique,19,#9f6d6d
-4,rue,PIERRE DUPONT,Paris,48.878845,2.364598,Paris,housenumber,POINT (2.364598 48.878845),54,Hôpital-Saint-Louis,10,#825d22
-3,place,MARCHÉ-Ste-CATHERINE,Paris,48.85544,2.362618,Paris,housenumber,POINT (2.362618 48.85544),15,Saint-Gervais,4,#88ff95
-19,rue,VIALA,Paris,48.850276,2.290438,Paris,housenumber,POINT (2.290438 48.850276),27,Grenelle,15,#efcd1c
-16,rue,ESPÉRANCE,Paris,48.826559,2.34778,Paris,housenumber,POINT (2.34778 48.826559),14,Maison-Blanche,13,#1a38c7
-51,rue,GRENELLE,Paris,48.854501,2.325625,Paris,housenumber,POINT (2.325625 48.854501),53,Saint-Thomas-d'Aquin,7,#20cce0
+5,rue,RIQUET,Paris,48.888134,2.376448,Paris,housenumber,POINT (2.376448 48.888134),78,Villette,19,#7486ff
+141,boulevard,ITALIE,Paris,48.820646,2.359275,Paris,housenumber,POINT (2.359275 48.820646),14,Maison-Blanche,13,#f5368b
+234,rue,FAUBOURG ST-HONORÉ,Paris,48.87616,2.302766,Paris,housenumber,POINT (2.302766 48.87616),47,Faubourg-du-Roule,8,#3039ed
+62,rue,MICHEL BIZOT,Paris,48.835423,2.40204,Paris,housenumber,POINT (2.40204 48.835423),44,Picpus,12,#be1843
+6,rue,OURS,Paris,48.863311,2.351775,Paris,housenumber,POINT (2.351775 48.863311),1,Sainte-Avoie,3,#dd36ae
+30,rue,PETIT-MUSC,Paris,48.852945,2.364722,Paris,housenumber,POINT (2.364722 48.852945),61,Arsenal,4,#850be0
+3,impasse,MASSONET,Paris,48.895498,2.35158,Paris,housenumber,POINT (2.35158 48.895498),62,Clignancourt,18,#de1447
+56,rue,PANOYAUX,Paris,48.867023,2.388347,Paris,housenumber,POINT (2.388347 48.867023),35,Père-Lachaise,20,#dbcfc2
+16,rue,THÉRÈSE,Paris,48.866374,2.335212,Paris,housenumber,POINT (2.335212 48.866374),79,Palais-Royal,1,#6ec5ba
+11,rue,JEAN ROBERT,Paris,48.88952,2.35817,Paris,housenumber,POINT (2.35817 48.88952),51,Goutte-d'Or,18,#821edf
+22,rue,FAUBOURG POISSONNIÈRE,Paris,48.87254,2.348002,Paris,housenumber,POINT (2.348002 48.87254),43,Porte-Saint-Denis,10,#d1b7f0
+19,rue,CHALIGNY,Paris,48.846718,2.383559,Paris,housenumber,POINT (2.383559 48.846718),20,Quinze-Vingts,12,#2b79b8
+77,rue,LILLE,Paris,48.8599,2.324857,Paris,housenumber,POINT (2.324857 48.8599),53,Saint-Thomas-d'Aquin,7,#1ed3d4
+64,rue,BAGNOLET,Paris,48.857795,2.399838,Paris,housenumber,POINT (2.399838 48.857795),49,Charonne,20,#ea9378
+39,rue,ROMAINVILLE,Paris,48.877607,2.402001,Paris,housenumber,POINT (2.402001 48.877607),46,Amérique,19,#b871ba
+4,rue,PIERRE DUPONT,Paris,48.878845,2.364598,Paris,housenumber,POINT (2.364598 48.878845),54,Hôpital-Saint-Louis,10,#912a14
+3,place,MARCHÉ-Ste-CATHERINE,Paris,48.85544,2.362618,Paris,housenumber,POINT (2.362618 48.85544),15,Saint-Gervais,4,#0d0a97
+19,rue,VIALA,Paris,48.850276,2.290438,Paris,housenumber,POINT (2.290438 48.850276),27,Grenelle,15,#e35312
+16,rue,ESPÉRANCE,Paris,48.826559,2.34778,Paris,housenumber,POINT (2.34778 48.826559),14,Maison-Blanche,13,#f5368b
+51,rue,GRENELLE,Paris,48.854501,2.325625,Paris,housenumber,POINT (2.325625 48.854501),53,Saint-Thomas-d'Aquin,7,#1ed3d4
